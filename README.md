@@ -18,7 +18,7 @@
 
 - **[Gold Wallet](https://github.com/bitcoinvault/GoldWallet)**: Spearheaded the development of Gold Wallet, a secure cryptocurrency wallet for Bitcoin Vault, a Bitcoin fork designed to enhance security features. Available on **[iOS](https://apps.apple.com/pl/app/goldwallet-for-btcv/id1515116464?l=pl)** and **[Android](https://play.google.com/store/apps/details?id=io.goldwallet.wallet&hl=pl&gl=US)**.
 
-- **Electric Wallet Pro**: Led the development of Electric Wallet Pro, a secure and user-friendly mobile wallet designed for managing digital assets on the Elcash blockchain. As a Bitcoin fork, ELCASH facilitates fast, efficient transfers and offers fee-free transactions for stakers. Available on **[iOS](https://apps.apple.com/sa/app/electric-wallet-pro/id1559523681)** and **[Android](https://play.google.com/store/apps/details?id=io.elcash.wallet)**.
+- **Electric Wallet Pro**: Led the development of Electric Wallet Pro, a secure and user-friendly mobile wallet designed for managing digital assets on the Elcash blockchain. As a Bitcoin fork, ELCASH facilitates fast, efficient transfers and offers fee-free transactions for stakers. Available on **[iOS](https://apps.apple.com/sa/app/electric-wallet-pro/id1559523681)**.
 
 ### 🔹 Blog
 - **[Step-by-Step Debugging for Deployed Solidity Smart Contracts](https://paulked.com/step-by-step-debugging-for-deployed-solidity-smart-contracts)**: A comprehensive guide that explores effective techniques for debugging deployed smart contracts. For practical examples and troubleshooting tools, check out the associated **[repository](https://github.com/KedziaPawel/debug-deployed-smart-contract)**.
