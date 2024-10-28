@@ -10,7 +10,7 @@
     - **[Enzyme Subgraphs](https://github.com/enzymefinance/subgraphs)**
     - **[Enzyme SDK](https://github.com/enzymefinance/sdk)**
 
-- **[Uniswap Staking App](https://github.com/avantgardefinance/UniStaking)**: Developed an engaging staking application funded by a grant from the Uniswap Foundation, enhancing user engagement and investment opportunities.
+- **[Uniswap Staking App](https://github.com/avantgardefinance/UniStaking)**: Developed an engaging staking application funded by a grant from the Uniswap Foundation, enhancing user engagement and investment opportunities through the staking of UNI tokens.
 
 - **[GMX Integration](https://gov.gmx.io/t/open-grant-application-gmx-enzyme/3582)**: Led the end-to-end integration process across smart contracts, backend, and frontend, supported by a GMX grant.
 
