@@ -4,13 +4,13 @@
 
 ### 🔹 Blockchain Projects
 
-- **[Enzyme dApp](https://app.enzyme.finance)**: Contributed significantly to the development of this digital asset management platform, which currently holds a Total Value Locked (TVL) of $250M. Improved functionality, stability, and automation through extensive protocol integrations, including **Aave**, **Arrakis**, **Aura**, **Balancer**, **Compound**, **Convex**, **Curve**, **GMX**, **Kiln**, **Liquity**, **Maple**, **TheGraph**, **Uniswap**, **Yearn**, and more. My contributions spanned the entire stack, including **frontend**, **backend**, **subgraphs**, **SDK**, and **smart contracts**, ensuring a seamless and efficient user experience.
+- **[Enzyme dApp](https://app.enzyme.finance)**: Contributed significantly to the development of this digital asset management platform, which currently holds a Total Value Locked (TVL) of $250M. Improved functionality, stability, and automation through extensive protocol integrations, including **Aave**, **Arrakis**, **Aura**, **Balancer**, **Compound**, **Convex**, **Curve**, **GMX**, **Kiln**, **Liquity**, **Maple**, **TheGraph**, **Uniswap**, **Yearn**, and more. My contributions spanned the entire stack, including **frontend**, **backend**, **subgraphs**, **SDK**, and **Smart Contracts**, ensuring a seamless and efficient user experience.
   - Repositories:
     - **[Enzyme Protocol](https://github.com/enzymefinance/protocol)**
     - **[Enzyme Subgraphs](https://github.com/enzymefinance/subgraphs)**
     - **[Enzyme SDK](https://github.com/enzymefinance/sdk)**
 
-- **[Uniswap Staking App](https://github.com/avantgardefinance/UniStaking)**: Developed an engaging staking application funded by a grant from the Uniswap Foundation, enhancing user engagement and investment opportunities through the staking of UNI tokens.
+- **[Uniswap Staking App](https://github.com/avantgardefinance/UniStaking)**: Developed an engaging staking application funded by a [grant from the Uniswap Foundation](https://gov.uniswap.org/t/temperature-check-activate-uniswap-protocol-governance/22936#appendix-e-front-end-access-9), enhancing user engagement and investment opportunities through the staking of UNI tokens.
 
 - **[GMX Integration](https://gov.gmx.io/t/open-grant-application-gmx-enzyme/3582)**: Led the end-to-end integration process across smart contracts, backend, and frontend, supported by a GMX grant.
 
