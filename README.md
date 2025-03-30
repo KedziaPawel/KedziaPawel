@@ -1,6 +1,6 @@
 # Blockchain Full-Stack Developer
 
-👋 Welcome! I am a blockchain full-stack developer proficient in **TypeScript**, **Solidity**, **React**, **React Native**, **Subgraph**, and **Node.js**. With expertise spanning both frontend and backend development, I take a holistic approach to creating scalable and efficient blockchain solutions.
+👋 Welcome! I am a blockchain full-stack developer proficient in **TypeScript**, **Solidity**, **React**, **React Native**, **Subgraph**, and **Node.js**. With expertise spanning frontend, backend, and protocol development, I take a holistic approach to building scalable and efficient blockchain solutions.
 
 ### 🔹 Blockchain Projects
 
@@ -13,6 +13,8 @@
 - **[Uniswap Staking App](https://github.com/avantgardefinance/UniStaking)**: Developed an engaging staking application funded by a [grant from the Uniswap Foundation](https://gov.uniswap.org/t/temperature-check-activate-uniswap-protocol-governance/22936#appendix-e-front-end-access-9), enhancing user engagement and investment opportunities through the staking of UNI tokens.
 
 - **[GMX Integration](https://gov.gmx.io/t/open-grant-application-gmx-enzyme/3582)**: Led the end-to-end integration process across smart contracts, backend, and frontend, supported by a GMX grant.
+
+- **[Damn Vulnerable Solana](https://github.com/KedziaPawel/damn-vulnerable-solana)**: Created a collection of deviously vulnerable Solana smart contract challenges to help developers think, break, and learn about Solana security. The project provides hands-on experience with real-world vulnerabilities, allowing developers to sharpen their security skills through practical challenges.  
 
 - **[Message Bridge](https://github.com/KedziaPawel/message-bridge)**: This Proof of Concept (PoC) project facilitates message transfer between two distinct networks. The sender contract is deployed on the Sepolia network, while the receiver contract operates on the Optimism Sepolia network. The sender contract transmits messages that the receiver contract processes, enabling efficient cross-network communication.
 
