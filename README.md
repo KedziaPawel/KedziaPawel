@@ -14,8 +14,6 @@
 
 - **[GMX Integration](https://gov.gmx.io/t/open-grant-application-gmx-enzyme/3582)**: Led the end-to-end integration process across smart contracts, backend, and frontend, supported by a GMX grant.
 
-- **[Damn Vulnerable Solana](https://github.com/KedziaPawel/damn-vulnerable-solana)**: Created a collection of deviously vulnerable Solana smart contract challenges to help developers think, break, and learn about Solana security. The project provides hands-on experience with real-world vulnerabilities, allowing developers to sharpen their security skills through practical challenges.  
-
 - **[Message Bridge](https://github.com/KedziaPawel/message-bridge)**: This Proof of Concept (PoC) project facilitates message transfer between two distinct networks. The sender contract is deployed on the Sepolia network, while the receiver contract operates on the Optimism Sepolia network. The sender contract transmits messages that the receiver contract processes, enabling efficient cross-network communication.
 
 - **[Gold Wallet](https://github.com/bitcoinvault/GoldWallet)**: Spearheaded the development of Gold Wallet, a secure cryptocurrency wallet for Bitcoin Vault, a Bitcoin fork designed to enhance security features. Available on **[iOS](https://apps.apple.com/pl/app/goldwallet-for-btcv/id1515116464?l=pl)** and **[Android](https://play.google.com/store/apps/details?id=io.goldwallet.wallet&hl=pl&gl=US)**.
