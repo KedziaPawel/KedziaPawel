@@ -11,8 +11,7 @@
     - **[Enzyme Blue SDK](https://github.com/enzymefinance/sdk)**
 
 
-- **[Enzyme Onyx](https://enzyme.finance/products/onyx)**
-**Enzyme Onyx** is an institutional-grade platform providing a comprehensive set of tools to **issue, structure, manage, and administer tokenized funds and financial instruments**. It is designed for asset managers, DAOs, and institutions that require customizable fund logic, regulatory flexibility, and operational automation on-chain.
+- **[Enzyme Onyx](https://enzyme.finance/products/onyx)** is an institutional-grade platform providing a comprehensive set of tools to **issue, structure, manage, and administer tokenized funds and financial instruments**. It is designed for asset managers, DAOs, and institutions that require customizable fund logic, regulatory flexibility, and operational automation on-chain.
 I played a key role in building and scaling **Enzyme Onyx**, with responsibility spanning:
   - **Frontend**: Building intuitive interfaces for fund administration, monitoring, and a fully white-label depositor interface
   - **Backend**: Core services supporting fund operations and lifecycle management  
