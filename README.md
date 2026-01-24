@@ -1,15 +1,30 @@
 # Blockchain Full-Stack Developer
 
-👋 Welcome! I am a blockchain full-stack developer proficient in **TypeScript**, **Solidity**, **React**, **React Native**, **Subgraph**, and **Node.js**. With expertise spanning frontend, backend, and protocol development, I take a holistic approach to building scalable and efficient blockchain solutions.
+👋 Welcome! I am a blockchain full-stack developer proficient in **TypeScript**, **Solidity**, **React**, **React Native**, **Subgraph**, and **Node.js**. With expertise spanning frontend, backend, SDK, and protocol development, I take a holistic approach to building scalable and efficient blockchain solutions.
 
 ### 🔹 Blockchain Projects
 
-- **[Enzyme dApp](https://app.enzyme.finance)**: Contributed significantly to the development of this digital asset management platform, which currently holds a Total Value Locked (TVL) of $250M. Improved functionality, stability, and automation through extensive protocol integrations, including **Aave**, **Arrakis**, **Aura**, **Balancer**, **Compound**, **Convex**, **Curve**, **GMX**, **Kiln**, **Liquity**, **Maple**, **TheGraph**, **Uniswap**, **Yearn**, and more. My contributions spanned the entire stack, including **frontend**, **backend**, **subgraphs**, **SDK**, and **Smart Contracts**, ensuring a seamless and efficient user experience.
+- **[Enzyme Blue](https://app.enzyme.finance)**: Contributed significantly to the development of this digital asset management platform, which currently holds a Total Value Locked (TVL) of $250M. Improved functionality, stability, and automation through extensive protocol integrations, including **Aave**, **Arrakis**, **Aura**, **Balancer**, **Compound**, **Convex**, **Curve**, **GMX**, **Kiln**, **Liquity**, **Maple**, **TheGraph**, **Uniswap**, **Yearn**, and more. My contributions spanned the entire stack, including **frontend**, **backend**, **subgraphs**, **SDK**, and **Smart Contracts**, ensuring a seamless and efficient user experience.
   - Repositories:
-    - **[Enzyme Protocol](https://github.com/enzymefinance/protocol)**
-    - **[Enzyme Subgraphs](https://github.com/enzymefinance/subgraphs)**
-    - **[Enzyme SDK](https://github.com/enzymefinance/sdk)**
+    - **[Enzyme Blue Protocol](https://github.com/enzymefinance/protocol)**
+    - **[Enzyme Blue Subgraphs](https://github.com/enzymefinance/subgraphs)**
+    - **[Enzyme Blue SDK](https://github.com/enzymefinance/sdk)**
 
+
+- **[Enzyme Onyx](https://enzyme.finance/products/onyx)**
+**Enzyme Onyx** is an institutional-grade platform providing a comprehensive set of tools to **issue, structure, manage, and administer tokenized funds and financial instruments**. It is designed for asset managers, DAOs, and institutions that require customizable fund logic, regulatory flexibility, and operational automation on-chain.
+I played a key role in building and scaling **Enzyme Onyx**, with responsibility spanning:
+  - **Frontend**: Building intuitive interfaces for fund administration, monitoring, and a fully white-label depositor interface
+  - **Backend**: Core services supporting fund operations and lifecycle management  
+  - **Indexing**: Reliable, performant on-chain data indexing for institutional use cases with usage of Ponder.sh 
+  - **SDK**: Developer-facing APIs and tooling for integrating Onyx into external systems  
+  - **Protocol**: Smart Contracts development for tokenized instruments  
+  - In addition, I led and implemented **on-chain automations using the Chainlink Runtime Environment**, making Enzyme one of the **earliest adopters of Chainlink Automation**. This work was done in [close collaboration](https://x.com/chainlink/status/1986539253891772832) with **Chainlink**, enabling automated fund operations, maintenance tasks, and trigger-based execution for institutional workflows.
+  
+  - Repositories:
+    - **[Enzyme Onyx Protocol](https://github.com/enzymefinance/protocol-onyx)**
+    - **[Enzyme Onyx SDK](https://github.com/enzymefinance/sdk)**
+    
 - **[Uniswap Staking App](https://github.com/avantgardefinance/UniStaking)**: Developed an engaging staking application funded by a [grant from the Uniswap Foundation](https://gov.uniswap.org/t/temperature-check-activate-uniswap-protocol-governance/22936#appendix-e-front-end-access-9), enhancing user engagement and investment opportunities through the staking of UNI tokens.
 
 - **[GMX Integration](https://gov.gmx.io/t/open-grant-application-gmx-enzyme/3582)**: Led the end-to-end integration process across smart contracts, backend, and frontend, supported by a GMX grant.
