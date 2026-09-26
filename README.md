@@ -11,18 +11,21 @@
     - **[Enzyme Blue SDK](https://github.com/enzymefinance/sdk)**
 
 
-- **[Enzyme Onyx](https://enzyme.finance/products/onyx)** is an institutional-grade platform providing a comprehensive set of tools to **issue, structure, manage, and administer tokenized funds and financial instruments**. It is designed for asset managers, DAOs, and institutions that require customizable fund logic, regulatory flexibility, and operational automation on-chain.
+- **[Enzyme Onyx](https://enzyme.finance/products/onyx)** is an institutional-grade platform providing a comprehensive set of tools to **issue, structure, manage, and administer tokenized funds and financial instruments**, with $140M+ in AUM. It is designed for asset managers, DAOs, and institutions that require customizable fund logic, regulatory flexibility, and operational automation on-chain.
 I played a key role in building and scaling **Enzyme Onyx**, with responsibility spanning:
   - **Frontend**: Building intuitive interfaces for fund administration, monitoring, and a fully white-label depositor interface
   - **Backend**: Core services supporting fund operations and lifecycle management  
   - **Indexing**: Reliable, performant on-chain data indexing for institutional use cases with usage of Ponder.sh 
   - **SDK**: Developer-facing APIs and tooling for integrating Onyx into external systems  
   - **Protocol**: Smart Contracts development for tokenized instruments  
-  - In addition, I led and implemented **on-chain automations using the Chainlink Runtime Environment**, making Enzyme one of the **earliest adopters of Chainlink Automation**. This work was done in [close collaboration](https://x.com/chainlink/status/1986539253891772832) with **Chainlink**, enabling automated fund operations, maintenance tasks, and trigger-based execution for institutional workflows.
+  - Led and implemented **on-chain automations using the Chainlink Runtime Environment**, making Enzyme one of the **earliest adopters of Chainlink Automation**. This work was done in [close collaboration](https://x.com/chainlink/status/1986539253891772832) with **Chainlink**, enabling automated fund operations, maintenance tasks, and trigger-based execution for institutional workflows.
+  - **KYC & Compliance**: Led the integration of Chainlink ACE to enable on-chain KYC and compliance controls for funds
+  - **Cross-chain**: Led the integration of Chainlink CCIP to enable cross-chain deposits into tokenized funds
   
   - Repositories:
     - **[Enzyme Onyx Protocol](https://github.com/enzymefinance/protocol-onyx)**
     - **[Enzyme Onyx SDK](https://github.com/enzymefinance/sdk)**
+    - **[Enzyme Onyx API](https://api.onyx.enzyme.finance/reference)**
     
 - **[Uniswap Staking App](https://github.com/avantgardefinance/UniStaking)**: Developed an engaging staking application funded by a [grant from the Uniswap Foundation](https://gov.uniswap.org/t/temperature-check-activate-uniswap-protocol-governance/22936#appendix-e-front-end-access-9), enhancing user engagement and investment opportunities through the staking of UNI tokens.
 
